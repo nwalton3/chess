@@ -10,3 +10,7 @@
 - Board fills the most vertical and horizontal space
 - Saved games (user accounts)
 - Classic games to review
+
+## Resources
+
+- Game databases: http://www.chessgameslinks.lars-balzer.info/
