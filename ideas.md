@@ -11,6 +11,7 @@
 - Saved games (user accounts)
 - Classic games to review
 - Recognize openings and, in tutorial mode, give pointers on traditional/appropriate play of that opening
+- Make sure moves are animated (quickly), for better usability
 
 ## Resources
 
