@@ -10,7 +10,7 @@
 - Board fills the most vertical and horizontal space
 - Saved games (user accounts)
 - Classic games to review
-- Recognize openings and, in tutorial mode, give pointers to both sides on traditional/appropriate play of that opening
+- Recognize openings and, in tutorial mode, give pointers on traditional/appropriate play of that opening
 
 ## Resources
 
